@@ -42,7 +42,7 @@ weather-app
 
 1. Clone o repositório
 
-git clone https://github.com/seu-usuario/weather-app
+git clone https://github.com/marvinmarvin2089-source/weather-app
 
 2. Abra a pasta do projeto
 
